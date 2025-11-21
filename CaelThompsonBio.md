@@ -1,6 +1,6 @@
-#**Individual Capstone Assessment Member: Cael Thompson**
+# **Individual Capstone Assessment Member: Cael Thompson**
 
-#**Introduction:**
+# **Introduction:**
 
 For the final year of my Computer Science degree, Matt Heeter and I will develop an 
 augmented reality program to be used during activities that require guidance. This program will, 
@@ -12,7 +12,7 @@ and asked the program “how do I change an oil filter?” it will highlight the
 tutorial. This project is about pushing the boundaries of reality and bringing real-time feedback 
 about questions you may have about the world right in front of your eyes. 
 
-#**Thoughts on College Curriculum and COOPS:**
+# **Thoughts on College Curriculum and COOPS:**
 
 My college curriculum will be a massive boon for aiding me in the development of my 
 project. A course like CS 2028C or rather “Data structures” will be helpful in the overall design 
@@ -41,7 +41,7 @@ those issues into actionable items my team and I had to deal with before the dea
 reached. I expect to apply both these skills I learned from my co-op experience during my 
 capstone project where it will be important to organize tasks and manage my time effectively.
 
-#**Project Motivations:**
+# **Project Motivations:**
 
 I am motivated to do this project because I believe it will be an important opportunity to 
 work on something I’ve never worked on before. I do not have experience in the field of artificial 
