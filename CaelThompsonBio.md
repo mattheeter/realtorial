@@ -1,5 +1,7 @@
 #**Individual Capstone Assessment Member: Cael Thompson**
+
 #**Introduction:**
+
 For the final year of my Computer Science degree, Matt Heeter and I will develop an 
 augmented reality program to be used during activities that require guidance. This program will, 
 when having an augmented reality headset on, give you a tutorial on how to do something when 
@@ -9,7 +11,9 @@ question and it will visually show you the result. For example, if you were unde
 and asked the program “how do I change an oil filter?” it will highlight the filter and give you a 
 tutorial. This project is about pushing the boundaries of reality and bringing real-time feedback 
 about questions you may have about the world right in front of your eyes. 
+
 #**Thoughts on College Curriculum and COOPS:**
+
 My college curriculum will be a massive boon for aiding me in the development of my 
 project. A course like CS 2028C or rather “Data structures” will be helpful in the overall design 
 of the program that will be required to run on the augmented reality headset. The design of data 
@@ -23,6 +27,7 @@ artificial intelligence and how they can be used in practice through lecture and
 experience. The last class that will be of help is CS 5152 or “Intelligent Data Analysis”. This 
 course will be useful as data analysis is a big part of machine learning. Which is an aspect that is 
 pivotal in artificial intelligence. 
+
 My coop experience will give me some useful skills needed to succeed in this project. 
 Though I had only had one co-op, the co-op had taught me some valuable skills. The company I 
 worked for during summer 2025 was Siemens Inc. Under the direct supervision of Brent Smith 
@@ -35,7 +40,9 @@ not provided guidance on what needed to be completed, so I investigated issues a
 those issues into actionable items my team and I had to deal with before the deadlines were 
 reached. I expect to apply both these skills I learned from my co-op experience during my 
 capstone project where it will be important to organize tasks and manage my time effectively.
+
 #**Project Motivations:**
+
 I am motivated to do this project because I believe it will be an important opportunity to 
 work on something I’ve never worked on before. I do not have experience in the field of artificial 
 intelligence, nor do I have experience in augmented reality so this will be a good learning 
