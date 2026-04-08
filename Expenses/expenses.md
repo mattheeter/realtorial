@@ -1,0 +1,1 @@
+For this project, the only expense we incurred was that of the Meta Quest 3S headset. This was $250 and served as the platform for all the work we did. All software we used for this project was free - Unity, Python, YOLO, etc. Computer vision model training was done on-premises, so no costs were incurred from GPU time.
